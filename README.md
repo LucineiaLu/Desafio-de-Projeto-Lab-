@@ -1,3 +1,6 @@
+https://colab.research.google.com/drive/1cpD0MdWS7ZdLYBqTJ5Q0wLmeL3qbaYaz?usp=sharing
+
+
 # Desafio-de-Projeto-Lab-
 # 🚀 Explorando IA Generativa em um Pipeline de ETL com Python
 
