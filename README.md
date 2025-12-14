@@ -136,10 +136,9 @@ python etl_ia_generativa.py
 
 ## 👩‍💻 Autora
 
-**Lucineia**
+**Lucineia Rodrigues**
 Projeto desenvolvido como desafio prático e projeto de portfólio no contexto da **Digital Innovation One (DIO)**.
 
 
 
-📢 *Projeto desenvolvido para fins educacionais e demonstração de competências técnicas.*
 
